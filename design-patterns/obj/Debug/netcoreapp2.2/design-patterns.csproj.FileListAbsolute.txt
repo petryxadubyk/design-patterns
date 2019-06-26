@@ -1,0 +1,15 @@
+D:\Github\design-patterns\design-patterns\bin\Debug\netcoreapp2.2\design-patterns.deps.json
+D:\Github\design-patterns\design-patterns\bin\Debug\netcoreapp2.2\design-patterns.runtimeconfig.json
+D:\Github\design-patterns\design-patterns\bin\Debug\netcoreapp2.2\design-patterns.runtimeconfig.dev.json
+D:\Github\design-patterns\design-patterns\bin\Debug\netcoreapp2.2\design-patterns.dll
+D:\Github\design-patterns\design-patterns\obj\Debug\netcoreapp2.2\design-patterns.csprojAssemblyReference.cache
+D:\Github\design-patterns\design-patterns\obj\Debug\netcoreapp2.2\design-patterns.csproj.CoreCompileInputs.cache
+D:\Github\design-patterns\design-patterns\obj\Debug\netcoreapp2.2\design-patterns.AssemblyInfoInputs.cache
+D:\Github\design-patterns\design-patterns\obj\Debug\netcoreapp2.2\design-patterns.AssemblyInfo.cs
+D:\Github\design-patterns\design-patterns\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Github\design-patterns\design-patterns\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Github\design-patterns\design-patterns\bin\Debug\netcoreapp2.2\appsettings.Production.json
+D:\Github\design-patterns\design-patterns\bin\Debug\netcoreapp2.2\hostsettings.json
+D:\Github\design-patterns\design-patterns\bin\Debug\netcoreapp2.2\design-patterns.pdb
+D:\Github\design-patterns\design-patterns\obj\Debug\netcoreapp2.2\design-patterns.dll
+D:\Github\design-patterns\design-patterns\obj\Debug\netcoreapp2.2\design-patterns.pdb
